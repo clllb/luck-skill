@@ -1,5 +1,7 @@
 # Luck Skill (黄历 Skill)
 
+[English](README.md) | [简体中文](README_zh.md)
+
 A Chinese almanac (黄历) skill for AI coding assistants. Get daily luck cards, outfit color guidance, and traditional almanac insights — translated into modern, practical advice.
 
 If this skill is useful to you, please consider giving the repo a star. It really means a lot to me! 🌟
