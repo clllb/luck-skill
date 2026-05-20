@@ -46,13 +46,13 @@ Just talk to your AI assistant naturally. Examples:
 
 | You say | You get |
 |---------|---------|
-| `今天黄历` | Full daily luck card |
-| `明天适合发版吗` | Deployment readiness check |
-| `今天穿什么颜色` | Outfit color guide |
-| `今晚适合打游戏吗` | Gaming timing advice |
-| `明天我能不能上太空` | Playful reality check + practical tips |
-| `今天签约怎么样` | Contract signing guidance |
-| `今天面试穿什么` | Interview outfit + direction tips |
+| `What's today's almanac?` | Full daily luck card |
+| `Is tomorrow a good day to deploy?` | Deployment readiness check |
+| `What colors should I wear today?` | Outfit color guide |
+| `Is tonight good for gaming?` | Gaming timing advice |
+| `Can I go to space tomorrow?` | Playful reality check + practical tips |
+| `How does today look for signing a contract?` | Contract signing guidance |
+| `What should I wear for an interview today?` | Interview outfit + direction tips |
 
 The skill fetches real almanac data and gives grounded, modern advice — never deterministic fortune-telling.
 
