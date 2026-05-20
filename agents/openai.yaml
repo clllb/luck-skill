@@ -1,0 +1,4 @@
+interface:
+  display_name: "黄历 Skill"
+  short_description: "生成准确的 AI 幸运卡片与今日避坑"
+  default_prompt: "Use $luck-skill to generate today’s 幸运卡片 from Toolbox 黄历 JSON, including 今日避坑 from 彭祖百忌."
